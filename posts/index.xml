@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Yashas Manjunatha</title>
+        <link>https://yashasmanjunatha.github.io/posts/</link>
+        <description>Recent content in Posts on Yashas Manjunatha</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 22 Aug 2020 15:44:24 -0500</lastBuildDate>
+        <atom:link href="https://yashasmanjunatha.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>From Theory to Practice</title>
+            <link>https://yashasmanjunatha.github.io/posts/my-first-post/</link>
+            <pubDate>Sat, 22 Aug 2020 15:44:24 -0500</pubDate>
+            
+            <guid>https://yashasmanjunatha.github.io/posts/my-first-post/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>

@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yashasmanjunatha.github.io/categories/</loc>
+    <loc>https://yashasmanjunatha.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-08-22T15:44:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yashasmanjunatha.github.io/posts/</loc>
+    <lastmod>2020-08-22T15:44:24-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://yashasmanjunatha.github.io/tags/</loc>
+    <lastmod>2020-08-22T15:44:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yashasmanjunatha.github.io/tags/untagged/</loc>
+    <lastmod>2020-08-22T15:44:24-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://yashasmanjunatha.github.io/</loc>
+    <lastmod>2020-08-22T15:44:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yashasmanjunatha.github.io/categories/</loc>
   </url>
   
 </urlset>
